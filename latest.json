@@ -1,18 +1,18 @@
 {
   "product": "Autofy",
-  "version": "2.0.3",
-  "date": "2026-10-28",
-  "notes": "O botão Atualizar agora aparece logo ao abrir o Autofy. Clique na versão no menu lateral para conferir atualizações na hora. Melhores vídeos: mínimo de 1.500 plays. Excluir Páginas: botão para abrir o Facebook da conta antes de excluir.",
+  "version": "2.2.0",
+  "date": "2026-10-30",
+  "notes": "Agora o Autofy pede login: entre com o e-mail e a senha da sua conta. Comprou agora? Crie a conta na tela de entrada com o código recebido no Discord. Novo botão Sair da conta e aviso de versão nova no painel.",
   "packages": {
     "mac": {
-      "file": "Autofy-Mac-2.0.3.zip",
-      "size": 3755051,
-      "sha256": "c107e3424b405034407877f6448183777f355c4a95b56b7c89ac18f2b069b40e"
+      "file": "Autofy-Mac-2.2.0.zip",
+      "size": 3778249,
+      "sha256": "f176d21afc607d2873c1a955ee29d5032fcb0565812d287a14a323c3258fa255"
     },
     "windows": {
-      "file": "Autofy-Windows-2.0.3.zip",
-      "size": 3697417,
-      "sha256": "eb76f664625f6e9e96cf678df9fcea00dba8618e9fd72c878b6c1c93922caba8"
+      "file": "Autofy-Windows-2.2.0.zip",
+      "size": 3720613,
+      "sha256": "938ff85a7f0b66b55dcb2700af16497a0b5e00524153aecc1e515c99266e7c5c"
     }
   }
 }
