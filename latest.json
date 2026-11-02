@@ -1,18 +1,18 @@
 {
   "product": "Autofy",
-  "version": "2.2.1",
-  "date": "2026-11-01",
-  "notes": "Correção no slot 3: o REPOST do melhor reel volta a aparecer como pronto. Antes, a Página que já tinha postado esse reel em outro dia ficava bloqueada como Já publicado. Agora o bloqueio vale só para o mesmo reel no mesmo dia.",
+  "version": "2.3.0",
+  "date": "2026-11-02",
+  "notes": "Configuração bem mais simples: novo assistente passo a passo no primeiro acesso, salvamento automático em Configurações e botão Rever tutorial.",
   "packages": {
     "mac": {
-      "file": "Autofy-Mac-2.2.1.zip",
-      "size": 3778329,
-      "sha256": "a03cac07c3ed895aa882c358fb982c0010347d0ca5019a0806c52ca8abfb6f80"
+      "file": "Autofy-Mac-2.3.0.zip",
+      "size": 3785165,
+      "sha256": "09d78c6d9ba61a790a9839e684658e87f0afa6db8f5bf41bd67fa8456bcdab33"
     },
     "windows": {
-      "file": "Autofy-Windows-2.2.1.zip",
-      "size": 3720693,
-      "sha256": "79bf507884b55476f0b8b79cb4b8df4d022ab821fb5e7137ca7798399be0afec"
+      "file": "Autofy-Windows-2.3.0.zip",
+      "size": 3727527,
+      "sha256": "168761f551a635f8028fcd2c4a7caabe13e10d9bc9369eb7fc744047577facec"
     }
   }
 }
