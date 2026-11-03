@@ -1,18 +1,18 @@
 {
   "product": "Autofy",
-  "version": "2.3.0",
-  "date": "2026-11-02",
-  "notes": "Configuração bem mais simples: novo assistente passo a passo no primeiro acesso, salvamento automático em Configurações e botão Rever tutorial.",
+  "version": "2.3.1",
+  "date": "2026-11-03",
+  "notes": "Aviso mais claro quando o Autofy está fechado e o painel continua aberto: em vez de \"Failed to fetch\", o Autofy explica como abrir de novo e tentar outra vez.",
   "packages": {
     "mac": {
-      "file": "Autofy-Mac-2.3.0.zip",
-      "size": 3785165,
-      "sha256": "09d78c6d9ba61a790a9839e684658e87f0afa6db8f5bf41bd67fa8456bcdab33"
+      "file": "Autofy-Mac-2.3.1.zip",
+      "size": 3785391,
+      "sha256": "141fc1d1a1669c9c5666d8e74a1105880978b9d6bcacc47b005665a5923f0b40"
     },
     "windows": {
-      "file": "Autofy-Windows-2.3.0.zip",
-      "size": 3727527,
-      "sha256": "168761f551a635f8028fcd2c4a7caabe13e10d9bc9369eb7fc744047577facec"
+      "file": "Autofy-Windows-2.3.1.zip",
+      "size": 3727755,
+      "sha256": "c6addb536ef75b4c145a08e24fd7670df344f12bcffbdce3283fe8186ca4aeff"
     }
   }
 }
