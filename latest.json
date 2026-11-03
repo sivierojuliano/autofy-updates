@@ -1,18 +1,18 @@
 {
   "product": "Autofy",
-  "version": "2.3.1",
+  "version": "2.4.0",
   "date": "2026-11-03",
-  "notes": "Aviso mais claro quando o Autofy está fechado e o painel continua aberto: em vez de \"Failed to fetch\", o Autofy explica como abrir de novo e tentar outra vez.",
+  "notes": "Novo: Autofy Mobile. Acompanhe e controle o Autofy pelo celular em autofystudios.tech/app (ver status, parar, iniciar slot e programar postagens). Ligue em Configurações > Controle pelo celular. O computador precisa ficar ligado, com o Autofy aberto.",
   "packages": {
     "mac": {
-      "file": "Autofy-Mac-2.3.1.zip",
-      "size": 3785391,
-      "sha256": "141fc1d1a1669c9c5666d8e74a1105880978b9d6bcacc47b005665a5923f0b40"
+      "file": "Autofy-Mac-2.4.0.zip",
+      "size": 3790671,
+      "sha256": "92060897bb96382aea76e578f937b01514bd5f65c9b0447f5caac6ad7582c6ee"
     },
     "windows": {
-      "file": "Autofy-Windows-2.3.1.zip",
-      "size": 3727755,
-      "sha256": "c6addb536ef75b4c145a08e24fd7670df344f12bcffbdce3283fe8186ca4aeff"
+      "file": "Autofy-Windows-2.4.0.zip",
+      "size": 3733036,
+      "sha256": "e7f84b2529c96f0462e1bac6b856e39a497a1fb5c33e3de7856cc91a61d98df0"
     }
   }
 }
