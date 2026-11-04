@@ -1,18 +1,18 @@
 {
   "product": "Autofy",
-  "version": "2.4.2",
+  "version": "2.4.3",
   "date": "2026-11-04",
-  "notes": "Auto DM: opção de usar um app separado da Meta só para o Auto DM, colando o token dele na tela do Auto DM. Assim o Auto DM não gasta o limite de chamadas do app de postagem.",
+  "notes": "Auto DM: Páginas de uma conta do Facebook removida do Autofy são desligadas sozinhas, sem repetir o aviso de conta sem token.",
   "packages": {
     "mac": {
-      "file": "Autofy-Mac-2.4.2.zip",
-      "size": 3798319,
-      "sha256": "d195c8ab3db4e11cee7c98db816870a71e91649f6bd5631e817b6a885d23b119"
+      "file": "Autofy-Mac-2.4.3.zip",
+      "size": 3798512,
+      "sha256": "e07856cb353f1a63a1c1c84589522ddbb5802d54ba88de6511ebe4aa057463ce"
     },
     "windows": {
-      "file": "Autofy-Windows-2.4.2.zip",
-      "size": 3740692,
-      "sha256": "9ce43548d2a631efc23b61b37b3ca3260b3a2c14c31df574cd351ccf830fec21"
+      "file": "Autofy-Windows-2.4.3.zip",
+      "size": 3740882,
+      "sha256": "5e4df8e79601360a6d513cc454f8f592dd43e455ba45194303c5c1a03cb58751"
     }
   }
 }
