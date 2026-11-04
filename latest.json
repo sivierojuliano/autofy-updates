@@ -1,18 +1,18 @@
 {
   "product": "Autofy",
-  "version": "2.4.1",
+  "version": "2.4.2",
   "date": "2026-11-04",
-  "notes": "Novo navegador: Incogniton (abre uma aba dentro do perfil, com o proxy dele), além do Chrome e do AdsPower. Ao escolher AdsPower ou Incogniton, os campos do ID do perfil aparecem na hora.",
+  "notes": "Auto DM: opção de usar um app separado da Meta só para o Auto DM, colando o token dele na tela do Auto DM. Assim o Auto DM não gasta o limite de chamadas do app de postagem.",
   "packages": {
     "mac": {
-      "file": "Autofy-Mac-2.4.1.zip",
-      "size": 3797015,
-      "sha256": "1cfb7ab29d0e6b9078c16b03d140e08f056b6c829738fc52d1bb33fda7fe2167"
+      "file": "Autofy-Mac-2.4.2.zip",
+      "size": 3798319,
+      "sha256": "d195c8ab3db4e11cee7c98db816870a71e91649f6bd5631e817b6a885d23b119"
     },
     "windows": {
-      "file": "Autofy-Windows-2.4.1.zip",
-      "size": 3739386,
-      "sha256": "5db2926a494c43ef4b104629185c8e7ff67c65214900422d3e20872db91215cd"
+      "file": "Autofy-Windows-2.4.2.zip",
+      "size": 3740692,
+      "sha256": "9ce43548d2a631efc23b61b37b3ca3260b3a2c14c31df574cd351ccf830fec21"
     }
   }
 }
