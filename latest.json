@@ -1,18 +1,18 @@
 {
   "product": "Autofy",
-  "version": "2.4.5",
+  "version": "2.4.6",
   "date": "2026-11-06",
-  "notes": "Agora é possível adicionar até 6 contas extras do Facebook em Configurações → Contas do Facebook (antes eram 4).",
+  "notes": "Cada conta extra do Facebook agora tem o seu navegador: Chrome do Autofy, AdsPower ou Incogniton, com o ID do perfil, em Configurações → Contas do Facebook. As rodadas, programações e o botão Abrir o Facebook desta conta abrem no navegador escolhido.",
   "packages": {
     "mac": {
-      "file": "Autofy-Mac-2.4.5.zip",
-      "size": 3798842,
-      "sha256": "21be32a35a1ab6e5fa3de41b0853e1f30660af6fd9b0bd21d279721925730807"
+      "file": "Autofy-Mac-2.4.6.zip",
+      "size": 3799941,
+      "sha256": "8d435b3ad3ac81b61e9c1036d59ce086fdd206b6ae5e55cae4fb1fae07e23d31"
     },
     "windows": {
-      "file": "Autofy-Windows-2.4.5.zip",
-      "size": 3741212,
-      "sha256": "655cd303303847c2f08e44fe9776d87b216eb6340701f8f440ee7d8d25eb0ccf"
+      "file": "Autofy-Windows-2.4.6.zip",
+      "size": 3742313,
+      "sha256": "f43c234aebb45c0726b04c4e1517f86a4555b2958371e0330b26480107a751b2"
     }
   }
 }
