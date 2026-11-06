@@ -1,18 +1,18 @@
 {
   "product": "Autofy",
-  "version": "2.4.4",
-  "date": "2026-11-04",
-  "notes": "Excluir Páginas: quando uma Página não tem a opção de excluir ou dá problema só nela, o lote pula e segue para a próxima, em vez de parar tudo.",
+  "version": "2.4.5",
+  "date": "2026-11-06",
+  "notes": "Agora é possível adicionar até 6 contas extras do Facebook em Configurações → Contas do Facebook (antes eram 4).",
   "packages": {
     "mac": {
-      "file": "Autofy-Mac-2.4.4.zip",
-      "size": 3798845,
-      "sha256": "75a2cba895729735e0432f204aef047e6861bb27e96760ecf36a7dcc3d8ef4dd"
+      "file": "Autofy-Mac-2.4.5.zip",
+      "size": 3798842,
+      "sha256": "21be32a35a1ab6e5fa3de41b0853e1f30660af6fd9b0bd21d279721925730807"
     },
     "windows": {
-      "file": "Autofy-Windows-2.4.4.zip",
-      "size": 3741218,
-      "sha256": "da24c9daf169b23ee2c70eb3c52399943ab2623c0f7dc589fa45ce12e22859e2"
+      "file": "Autofy-Windows-2.4.5.zip",
+      "size": 3741212,
+      "sha256": "655cd303303847c2f08e44fe9776d87b216eb6340701f8f440ee7d8d25eb0ccf"
     }
   }
 }
