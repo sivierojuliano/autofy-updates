@@ -1,18 +1,18 @@
 {
   "product": "Autofy",
-  "version": "2.4.7",
+  "version": "2.4.8",
   "date": "2026-11-06",
-  "notes": "O log da rodada das contas extras agora mostra o navegador de verdade (perfil do AdsPower ou do Incogniton, ou Chrome da conta).",
+  "notes": "Contas do Facebook: quando a conta não salva, o motivo aparece em vermelho logo abaixo das contas, com o que fazer (antes aparecia só no topo da tela).",
   "packages": {
     "mac": {
-      "file": "Autofy-Mac-2.4.7.zip",
-      "size": 3800025,
-      "sha256": "8c1f9ad98f50dd40625e3ddb6a5169ff1b22b0fe2d8aad55661c42720d0f1d6b"
+      "file": "Autofy-Mac-2.4.8.zip",
+      "size": 3800198,
+      "sha256": "fe5be9e6592b4210429443d59ae957325a25a3bd7088611128d5a29e19cf9e91"
     },
     "windows": {
-      "file": "Autofy-Windows-2.4.7.zip",
-      "size": 3742396,
-      "sha256": "d518ead5105350ac6d175545a2ce11bcdb65715b3d07a520822e0c32c5c791f2"
+      "file": "Autofy-Windows-2.4.8.zip",
+      "size": 3742569,
+      "sha256": "2b511d36112fb2d8b99552b6e7bbc04daee2b5af8c47e31733d83e239f0fd246"
     }
   }
 }
