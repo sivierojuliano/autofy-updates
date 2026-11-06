@@ -1,18 +1,18 @@
 {
   "product": "Autofy",
-  "version": "2.4.6",
+  "version": "2.4.7",
   "date": "2026-11-06",
-  "notes": "Cada conta extra do Facebook agora tem o seu navegador: Chrome do Autofy, AdsPower ou Incogniton, com o ID do perfil, em Configurações → Contas do Facebook. As rodadas, programações e o botão Abrir o Facebook desta conta abrem no navegador escolhido.",
+  "notes": "O log da rodada das contas extras agora mostra o navegador de verdade (perfil do AdsPower ou do Incogniton, ou Chrome da conta).",
   "packages": {
     "mac": {
-      "file": "Autofy-Mac-2.4.6.zip",
-      "size": 3799941,
-      "sha256": "8d435b3ad3ac81b61e9c1036d59ce086fdd206b6ae5e55cae4fb1fae07e23d31"
+      "file": "Autofy-Mac-2.4.7.zip",
+      "size": 3800025,
+      "sha256": "8c1f9ad98f50dd40625e3ddb6a5169ff1b22b0fe2d8aad55661c42720d0f1d6b"
     },
     "windows": {
-      "file": "Autofy-Windows-2.4.6.zip",
-      "size": 3742313,
-      "sha256": "f43c234aebb45c0726b04c4e1517f86a4555b2958371e0330b26480107a751b2"
+      "file": "Autofy-Windows-2.4.7.zip",
+      "size": 3742396,
+      "sha256": "d518ead5105350ac6d175545a2ce11bcdb65715b3d07a520822e0c32c5c791f2"
     }
   }
 }
