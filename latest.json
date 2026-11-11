@@ -1,18 +1,18 @@
 {
   "product": "Autofy",
-  "version": "2.4.8",
-  "date": "2026-11-06",
-  "notes": "Contas do Facebook: quando a conta não salva, o motivo aparece em vermelho logo abaixo das contas, com o que fazer (antes aparecia só no topo da tela).",
+  "version": "2.4.9",
+  "date": "2026-11-11",
+  "notes": "Proxy da API por conta: cada conta do Facebook pode ter o próprio proxy (HTTP ou SOCKS5) em Configurações → Proxy da API, com campos separados e botão Testar; tudo o que o Autofy faz pela API da Meta com o token da conta sai por ele, e o registro da rodada mostra o proxy e o IP de saída. Correções: o campo de busca das Publicações não é mais preenchido sozinho pelo navegador com o seu e-mail; as rodadas fora da aba de testes não pegam mais configurações de teste.",
   "packages": {
     "mac": {
-      "file": "Autofy-Mac-2.4.8.zip",
-      "size": 3800198,
-      "sha256": "fe5be9e6592b4210429443d59ae957325a25a3bd7088611128d5a29e19cf9e91"
+      "file": "Autofy-Mac-2.4.9.zip",
+      "size": 3847339,
+      "sha256": "f664026725656aec8decd13df2edf092b698e9a5ab0a868193730f0eceea7783"
     },
     "windows": {
-      "file": "Autofy-Windows-2.4.8.zip",
-      "size": 3742569,
-      "sha256": "2b511d36112fb2d8b99552b6e7bbc04daee2b5af8c47e31733d83e239f0fd246"
+      "file": "Autofy-Windows-2.4.9.zip",
+      "size": 3789709,
+      "sha256": "0e2b2ff20a398f25e8ff11fe8e7bd2bc717e6b16b018d25b1e588f6b33796fd7"
     }
   }
 }
