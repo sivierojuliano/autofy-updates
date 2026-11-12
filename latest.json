@@ -1,18 +1,18 @@
 {
   "product": "Autofy",
-  "version": "2.4.9",
-  "date": "2026-11-11",
-  "notes": "Proxy da API por conta: cada conta do Facebook pode ter o próprio proxy (HTTP ou SOCKS5) em Configurações → Proxy da API, com campos separados e botão Testar; tudo o que o Autofy faz pela API da Meta com o token da conta sai por ele, e o registro da rodada mostra o proxy e o IP de saída. Correções: o campo de busca das Publicações não é mais preenchido sozinho pelo navegador com o seu e-mail; as rodadas fora da aba de testes não pegam mais configurações de teste.",
+  "version": "2.4.10",
+  "date": "2026-11-12",
+  "notes": "Buscar IDs: Página recadastrada no Miwra recebe o ID que estava preso ao cadastro antigo (quando o antigo não está mais ativo).",
   "packages": {
     "mac": {
-      "file": "Autofy-Mac-2.4.9.zip",
-      "size": 3847339,
-      "sha256": "f664026725656aec8decd13df2edf092b698e9a5ab0a868193730f0eceea7783"
+      "file": "Autofy-Mac-2.4.10.zip",
+      "size": 3848030,
+      "sha256": "fe0e9bfe659e675c219abf1a932e35d344a51f87a75390df7b3fcd469deb778e"
     },
     "windows": {
-      "file": "Autofy-Windows-2.4.9.zip",
-      "size": 3789709,
-      "sha256": "0e2b2ff20a398f25e8ff11fe8e7bd2bc717e6b16b018d25b1e588f6b33796fd7"
+      "file": "Autofy-Windows-2.4.10.zip",
+      "size": 3790402,
+      "sha256": "6b692c0201cef5803082d4c9442c44da285dc005cea6bea614d57f2c2aacdceb"
     }
   }
 }
