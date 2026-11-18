@@ -1,18 +1,18 @@
 {
   "product": "Autofy",
-  "version": "2.4.10",
-  "date": "2026-11-12",
-  "notes": "Buscar IDs: Página recadastrada no Miwra recebe o ID que estava preso ao cadastro antigo (quando o antigo não está mais ativo).",
+  "version": "2.5.0",
+  "date": "2026-11-18",
+  "notes": "Nova tela Postar Stories: publica gancho e Reel com link de checkout nas Páginas selecionadas, com botões de seleção e agendamento diário. Correção: a janela Trocar de perfil travada não prende mais a rodada.",
   "packages": {
     "mac": {
-      "file": "Autofy-Mac-2.4.10.zip",
-      "size": 3848030,
-      "sha256": "fe0e9bfe659e675c219abf1a932e35d344a51f87a75390df7b3fcd469deb778e"
+      "file": "Autofy-Mac-2.5.0.zip",
+      "size": 3874859,
+      "sha256": "803fae7a35537bda03336ecb89afaf289908a20f5eb11587222f833551b13d81"
     },
     "windows": {
-      "file": "Autofy-Windows-2.4.10.zip",
-      "size": 3790402,
-      "sha256": "6b692c0201cef5803082d4c9442c44da285dc005cea6bea614d57f2c2aacdceb"
+      "file": "Autofy-Windows-2.5.0.zip",
+      "size": 3817233,
+      "sha256": "13ab7d809faa171746d978d05cbb5cbbbefd56dbe3acee4ca1641a6510550cba"
     }
   }
 }
